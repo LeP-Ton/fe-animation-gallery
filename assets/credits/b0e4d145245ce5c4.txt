@@ -1,0 +1,20 @@
+原始目录：Battle Animations/Mounted - Valks, MKs, Magi/[Dark-Knight] [U] Ranger-Style Original
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks%2C%20MKs%2C%20Magi/%5BDark-Knight%5D%20%5BU%5D%20Ranger-Style%20Original
+
+F2U/F2E
+
+Original Dark Knight by Teraspark
+
+Design by Pikmin1211 with special thanks to Nuramon
+
+Sword animation by jj09 and DerTheVaporeon
+
+Magic animation by jj09 and DerTheVaporeon
+
+Staff animation by Pikmin1211 and DerTheVaporeon
+
+Palettes by Pikmin1211
+
+Map Sprite by Pikmin1211, Nuramon, and DerTheVaporeon
+
+Class Card by Pikmin1211

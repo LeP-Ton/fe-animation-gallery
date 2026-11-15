@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Magi - Nature-Type/[T3.1 Sage] High Magus [F] by MrNight48
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3.1%20Sage%5D%20High%20Magus%20%5BF%5D%20by%20MrNight48
+
+F2U/F2E
+
+Made by MrNight48.
+
+Looping cape and crit animations fixed by DerTheVaporeon.
+
+Made for the fangame FE7 Chaos Mode.
+
+https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/

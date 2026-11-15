@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Lyn-Variant] Izarck [M] by Yangfly
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Variant%5D%20Izarck%20%5BM%5D%20by%20Yangfly
+
+F2U/F2E
+
+Made by Yangfly Master.
+
+This is one of Yangfly's oldest animations. It needs a lot of work by the community to bring it up to the repo's standards.
+
+Sword (Alt) and Sword ranged critical edit by Seliost1.

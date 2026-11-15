@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Magi - Holy-Type/[T1 Priest-Base] Vanilla Priest +Magic [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT1%20Priest-Base%5D%20Vanilla%20Priest%20%2BMagic%20%5BM%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Staff Magic by Shtick.
+
+Magic animation by Jeorge_Reds.
+
+Magic {Yerek} by Yerek.

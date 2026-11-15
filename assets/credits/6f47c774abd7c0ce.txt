@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Mareeta - Ascended [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Mareeta%20-%20Ascended%20%5BF%5D
+
+F2U/F2E
+
+Original animation by RedBean. 
+
+Scripting by Jj09.
+
+Ascended Mareeta Reskin by UltraFenix, Commissioned by Arcth.

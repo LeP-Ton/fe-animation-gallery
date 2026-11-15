@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Hector-Reskin] Vagabond [M] by Kyrads
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BHector-Reskin%5D%20Vagabond%20%5BM%5D%20by%20Kyrads
+
+F2U/F2E
+
+Original Hector animation by IS
+
+Sword Hector used as base by Zane Avernathy
+
+Vagabond Sword/Unarmed by Kyrads

@@ -1,0 +1,22 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Hawkeye] Base-Vanilla +Weapons [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Hawkeye%5D%20Base-Vanilla%20%2BWeapons%20%5BM%5D
+
+F2U/F2E
+
+Original Hawkeye by IS. (Axe/Handaxe/Unarmed)
+
+Sword by Maiser6.
+
+Magic Axe by Wan, scripted by Sme.
+
+1. Sword (Greatsword) by tatata
+
+3. Axe (Magic v2) by tatata
+
+2. Lance by tatata
+
+5. Bow by tatata
+
+6. Magic by tatata
+
+7. Staff by tatata

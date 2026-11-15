@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] FE7if and BwdYeti [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20FE7if%20and%20BwdYeti%20%5BF%5D
+
+F2U/F2E
+
+Originally featured in FE7if.
+
+Featuring frames taken from BwdYeti's 'Astra' attack.
+
+Note that while this animation is in the repo and was 'made' by the creators of FE7if, generally their use of BwdYeti's frames without permission is looked-down on.
+
+Unarmed animation by Seliost1.

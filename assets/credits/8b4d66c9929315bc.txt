@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Variant] Sideslash Armorless [M] by HGS
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Variant%5D%20Sideslash%20Armorless%20%5BM%5D%20by%20HGS
+
+F2U/F2E
+
+Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.
+
+Derserker made by DerTheVaporeon. 
+
+Helmetless version by HGS.
+
+Sword and Axe (Alt Crit) by tatata.

@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Holy-Type/[T2 Bishop-Reskin] Kenneth [M] by Greentea
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Reskin%5D%20Kenneth%20%5BM%5D%20by%20Greentea
+
+F2U/F2E
+
+Animation by Greentea.
+
+Scripting by RobertFPY.

@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Custom] Yggdra Lute by Aruka (Long Hair) [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20Yggdra%20Lute%20by%20Aruka%20%28Long%20Hair%29%20%5BF%5D
+
+F2U/F2E
+
+Base animation by Aruka, Kenpuhu.
+
+Long-hair variant by Nuramon.

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Thieves, Rogues, Assassins/[Assassin-Reskin] Ponytail +Skirt Repal [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Thieves%2C%20Rogues%2C%20Assassins/%5BAssassin-Reskin%5D%20Ponytail%20%2BSkirt%20Repal%20%5BF%5D
+
+F2U/F2E
+
+Sword and Unarmed by FPZero, Moocavo, Riku.
+
+Knife by Pushwall, Jj09.
+
+Bow made by SD9K and Andy, added by ltranc.
+
+Repalette  by darkjaden to align with Huichelaar's Jaffar Vanilla Repal

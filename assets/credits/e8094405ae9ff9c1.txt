@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Monster-Custom] [M] Wanderer - Blade by Chhhsfe
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster-Custom%5D%20%5BM%5D%20Wanderer%20-%20Blade%20by%20Chhhsfe
+
+Made by chhhsfe.
+
+Scripting by DerTheVaporeon.
+
+This is an animation which replaces an existing Manakete, including their transform and revert frames.

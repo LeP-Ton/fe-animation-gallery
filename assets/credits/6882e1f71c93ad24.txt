@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Myrmidon-Base] Vanilla FE6 Ponytail +Bow [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20Vanilla%20FE6%20Ponytail%20%2BBow%20%5BF%5D
+
+F2U/F2E
+
+Base animation by IS.
+
+Bow by N426.
+
+Magic by Zacara'sDaydreamer.
+
+Tails by JaidynReiman, based on original Vanilla FE6-8 Generic Myrmidon Sword and Unarmed (Tail) by Seliost1.

@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Reskin] Rutger [M] by Seliost1
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20Rutger%20%5BM%5D%20by%20Seliost1
+
+F2U/F2E
+
+Sword animation by Seliost1.
+
+Gun animation by Seliost1 and credits to Toa Cazo for the gun sprite.

@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Mounted - Valks, MKs, Magi/[Dark-Knight] Leo's Dark Knight [U] by Leo_Link
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks%2C%20MKs%2C%20Magi/%5BDark-Knight%5D%20Leo%27s%20Dark%20Knight%20%5BU%5D%20by%20Leo_Link
+
+F2U/F2E
+
+Animation by Leo_Link.
+
+Sword and Unarmed Script by Apolo15.
+
+Sword script inprovement by Itranc.
+
+Sword script (Miss routine) improvement by VelvetKitsune.
+
+Lance Script by Itranc.
+
+Further script improvements by UltraFenix.

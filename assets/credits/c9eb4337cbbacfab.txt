@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Halb] Halberdier [F] by Black Mage
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Halb%5D%20Halberdier%20%5BF%5D%20by%20Black%20Mage
+
+F2U/F2E
+
+Base animation by TheBlindArcher.
+
+Female variant by Black Mage.
+
+Axe by Spud and MeatOfJustice.
+
+Combination of Axe and Handaxe with the female sprite by Yellowtoad.

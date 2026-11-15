@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Grand Paladin] [M] Generic Repal
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BGrand%20Paladin%5D%20%5BM%5D%20Generic%20Repal
+
+Credit to Aruku and Kenpuhu for the original animations (Spear and Sword)
+
+Nuramon for:
+
+	- re-palette (separated the armor colours from the horse ones)
+	
+	- Axe, Handaxe and unarmed animation
+	
+Magic by Spud.

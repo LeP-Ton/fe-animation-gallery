@@ -1,0 +1,20 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Fighter-Variant] FE9 Variant [F] by Pikmin
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BFighter-Variant%5D%20FE9%20Variant%20%5BF%5D%20by%20Pikmin
+
+F2U/F2E
+
+Original Tellius Fighter by MK404
+
+Base stills by Pikmin1211, expanded by Maiser6.
+
+Axe animation by Maiser6
+
+Handaxe animation by Maiser6
+
+Unarmed animation by Maiser6
+
+Palettes by MK404 and Pikmin1211
+
+Map Sprite by Pikmin1211
+
+Class Card by flasuban and Pikmin1211

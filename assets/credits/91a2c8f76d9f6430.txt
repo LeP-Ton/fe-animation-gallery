@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE9 Lord Custom] Ike Lord [M] by Ranko
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20Ike%20Lord%20%5BM%5D%20by%20Ranko
+
+F2U/F2E
+
+ngo for the sprites.
+
+VelvetKitsune for scripting.
+
+Sword (Generic Sword) by Seliost1.
+
+Updated sprite and anim by Ranko.
+
+Credit to Mishmaesh for a normal attack that was build upon.
+
+Piercing frames and position fix by Seliost1.

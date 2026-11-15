@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Mercenary-Custom] FF7 - Cloud [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20FF7%20-%20Cloud%20%5BM%5D
+
+F2U/F2E
+
+Animation by Lord Zymeth, Yangfly Master.
+
+Cloud edit by Seliost1.
+
+Sword (flashy ranged, and materia ranged) by Seliost1.

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Hero-Reskin] Joshua's Hat [M] by Jaden
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BHero-Reskin%5D%20Joshua%27s%20Hat%20%5BM%5D%20by%20Jaden
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Hat by SD9K
+
+Edit by darkjaden
+	- when importing the Unarmed animation, it displays a palette error, but "Ignore and force input" seems to work fine,
+	if anyone wants to fix this for me, feel free!

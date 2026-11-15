@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Hawkeye] No Ponytail +Bow [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Hawkeye%5D%20No%20Ponytail%20%2BBow%20%5BM%5D
+
+F2U/F2E
+
+Made by Orihara_Saki.
+
+Bow by HyperGammaSpaces.
+
+Magic animation by ZoramineFae, added by ltranc.
+
+Pants edits made by ltranc. Note that he has not yet made a Bow+Pants variant.
+
+Axe (Armads) by Apolo15.

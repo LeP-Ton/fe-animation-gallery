@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Base] Vanilla FE8 [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Base%5D%20Vanilla%20FE8%20%5BM%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Fixed magic by Shin19.
+
+All physical weapon animations by tatata.

@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Ranger-Base] [F] Vanilla
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BRanger-Base%5D%20%5BF%5D%20Vanilla
+
+Vanilla animation by IS.
+
+Lance by Skitty and Feaw.
+
+Magic by SaintRubenio.
+
+Unarmed (Mount only) by tatata.

@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Dragon-Custom] Dragon Mage V3 [U] by zephyr_atw
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-Custom%5D%20Dragon%20Mage%20V3%20%5BU%5D%20by%20zephyr_atw
+
+F2U/F2E
+
+(Inspired) Animation by zephyr_atw.
+
+Some animation pieces used from Yonyin and Tutún Negal animation.
+
+Scripit by Seliost1 - Edited by zeephyr_atw.

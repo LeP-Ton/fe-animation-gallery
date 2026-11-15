@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Warrior-Base] Repal Bandana [M] by Pushwall
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BWarrior-Base%5D%20Repal%20Bandana%20%5BM%5D%20by%20Pushwall
+
+F2U/F2E
+
+Original Warrior by IS.
+
+Repalette/bandana by Pushwall.
+
+NOTE: The Magic Axe rotation becomes blurry when imported through FeBuilder. The Non-Magic Axe does not have this issue.

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "complete",
+    "sourceGroup": null,
+    "fileName": "battle-animations-complete.zip",
+    "byteSize": 845718501,
+    "sha256": "2260b7558e1557ad38a940b2c3bcd4cb1ee4e6ddd5d84425f66201b62b83d9f7",
+    "fileCount": 341153,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/battle-animations-complete.zip"
+  },
+  {
+    "id": "advance-wars-ports",
+    "sourceGroup": "Advance Wars Animation Ports",
+    "fileName": "advance-wars-ports.zip",
+    "byteSize": 6420924,
+    "sha256": "657dca700b9a1e24c2a473ca4e95885d46141fb8761855c111f26fa4477c8f41",
+    "fileCount": 2862,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/advance-wars-ports.zip"
+  },
+  {
+    "id": "bards-dancers-suppliers-misc",
+    "sourceGroup": "Bards, Dancers, Suppliers, Misc",
+    "fileName": "bards-dancers-suppliers-misc.zip",
+    "byteSize": 15077836,
+    "sha256": "9a43f2738abe8e7523276ae5144e4db61272e5a954c001c9e01c47438866bd6d",
+    "fileCount": 6769,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/bards-dancers-suppliers-misc.zip"
+  },
+  {
+    "id": "infantry-axe-brigands-pirates-berserkers",
+    "sourceGroup": "Infantry - (Axe) Brigs, Pirates, Zerkers",
+    "fileName": "infantry-axe-brigands-pirates-berserkers.zip",
+    "byteSize": 27263729,
+    "sha256": "fd29666c0e7c5608d86ae42683df766718aa2cea5ec8b5dd71e6d69b4fbaa821",
+    "fileCount": 12853,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-axe-brigands-pirates-berserkers.zip"
+  },
+  {
+    "id": "infantry-axe-fighters-warriors",
+    "sourceGroup": "Infantry - (Axe) Fighters and Warriors",
+    "fileName": "infantry-axe-fighters-warriors.zip",
+    "byteSize": 17847691,
+    "sha256": "0437779424b5b08ec60802217b4ae6f40f5ed416dcd0ebba49af6c1365c36f05",
+    "fileCount": 8620,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-axe-fighters-warriors.zip"
+  },
+  {
+    "id": "infantry-bow-archers-hunters",
+    "sourceGroup": "Infantry - (Bow) Archers and Hunters",
+    "fileName": "infantry-bow-archers-hunters.zip",
+    "byteSize": 6296972,
+    "sha256": "722eab797409343cb5be10a4d582dd51618c28ddca1a05b57770cd5dc6753f74",
+    "fileCount": 3964,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-bow-archers-hunters.zip"
+  },
+  {
+    "id": "infantry-bow-snipers-ballistae",
+    "sourceGroup": "Infantry - (Bow) Snipers and Ballistae",
+    "fileName": "infantry-bow-snipers-ballistae.zip",
+    "byteSize": 6701314,
+    "sha256": "69d64fea49efdd9906c4ad79e1242c6406072c10f96dda64ecfb3e19893669bc",
+    "fileCount": 3870,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-bow-snipers-ballistae.zip"
+  },
+  {
+    "id": "infantry-lance",
+    "sourceGroup": "Infantry - (Lnc) Soldiers, Halberdiers",
+    "fileName": "infantry-lance.zip",
+    "byteSize": 17647739,
+    "sha256": "99a139234569aab58ffe962d04def2f1fd9a058c42fc3e4c6a5c550ba2628f2f",
+    "fileCount": 9171,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-lance.zip"
+  },
+  {
+    "id": "infantry-sword-mercenaries-heroes",
+    "sourceGroup": "Infantry - (Swd) Mercenaries and Heroes",
+    "fileName": "infantry-sword-mercenaries-heroes.zip",
+    "byteSize": 78673729,
+    "sha256": "534d2bfdf8f7cdb435f93b322751f23b6f35cd503293311a97700f41c8c88a4d",
+    "fileCount": 37939,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-sword-mercenaries-heroes.zip"
+  },
+  {
+    "id": "infantry-sword-myrmidons-swordmasters",
+    "sourceGroup": "Infantry - (Swd) Myrms and Swordmasters",
+    "fileName": "infantry-sword-myrmidons-swordmasters.zip",
+    "byteSize": 60225641,
+    "sha256": "fc963b69ef7dad186a2e6ac1ac56d5366a584354a8a5d9259f7691d67c25edb5",
+    "fileCount": 33130,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-sword-myrmidons-swordmasters.zip"
+  },
+  {
+    "id": "infantry-sword-thieves-rogues-assassins",
+    "sourceGroup": "Infantry - (Swd) Thieves, Rogues, Assassins",
+    "fileName": "infantry-sword-thieves-rogues-assassins.zip",
+    "byteSize": 26116955,
+    "sha256": "f37165fdb41ed2660f4e43c00e578991e6f8f229cf3a15c0f971cf443efa3a49",
+    "fileCount": 15983,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-sword-thieves-rogues-assassins.zip"
+  },
+  {
+    "id": "infantry-unarmed",
+    "sourceGroup": "Infantry - (Unarmed) Brawlers, Fistfighters",
+    "fileName": "infantry-unarmed.zip",
+    "byteSize": 1635497,
+    "sha256": "993270946ea3016bb4abf33c546dae4705d2dd66b5c16fa87d5443f8f70c789f",
+    "fileCount": 1004,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-unarmed.zip"
+  },
+  {
+    "id": "infantry-armored",
+    "sourceGroup": "Infantry - Knights, Generals, Armors",
+    "fileName": "infantry-armored.zip",
+    "byteSize": 104254391,
+    "sha256": "8a658b7c8452b749fc7dda9b5a6bae51f494b5d825e3b45d4c36a3d650ceacfc",
+    "fileCount": 30896,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/infantry-armored.zip"
+  },
+  {
+    "id": "lords",
+    "sourceGroup": "Lords - Vanilla and Custom",
+    "fileName": "lords.zip",
+    "byteSize": 111839637,
+    "sha256": "93d241b6c464c6bb634877578ec480df63ff0b939e316896921e73c930ad849f",
+    "fileCount": 50478,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/lords.zip"
+  },
+  {
+    "id": "magi-dark",
+    "sourceGroup": "Magi - Dark-Type",
+    "fileName": "magi-dark.zip",
+    "byteSize": 30775758,
+    "sha256": "9ab07046abffad7e6bcd9611dcac141118481761fc01ded8300aa5ce4898f174",
+    "fileCount": 10742,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/magi-dark.zip"
+  },
+  {
+    "id": "magi-holy",
+    "sourceGroup": "Magi - Holy-Type",
+    "fileName": "magi-holy.zip",
+    "byteSize": 9607885,
+    "sha256": "883b82580bd9e116cff5c8ffe5b6ab204dbf6ebabbe2ed0e40b9eb870bfca885",
+    "fileCount": 6269,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/magi-holy.zip"
+  },
+  {
+    "id": "magi-nature",
+    "sourceGroup": "Magi - Nature-Type",
+    "fileName": "magi-nature.zip",
+    "byteSize": 31069664,
+    "sha256": "b5341e01c2afafcab7b918f37de13c994b54d2b3e24834a02531f07b8b371a2f",
+    "fileCount": 15213,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/magi-nature.zip"
+  },
+  {
+    "id": "magi-special",
+    "sourceGroup": "Magi - Special",
+    "fileName": "magi-special.zip",
+    "byteSize": 11206035,
+    "sha256": "1d10610f467bba82412c155ac56f2edf2d76acab3743859d5439b244e18bbf95",
+    "fileCount": 5436,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/magi-special.zip"
+  },
+  {
+    "id": "monsters-basic",
+    "sourceGroup": "Monsters - Basic Types",
+    "fileName": "monsters-basic.zip",
+    "byteSize": 21896945,
+    "sha256": "691f2321ad80ea8be656b623030da890768af05e4fbf785a8a899ee05e4afc98",
+    "fileCount": 7972,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/monsters-basic.zip"
+  },
+  {
+    "id": "monsters-dragons-special",
+    "sourceGroup": "Monsters - Dragons and Special",
+    "fileName": "monsters-dragons-special.zip",
+    "byteSize": 54929197,
+    "sha256": "0ff2d9288f18fb4f176ba054ed049e11961205dfab6320b55c8ed78aa2ee5499",
+    "fileCount": 16015,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/monsters-dragons-special.zip"
+  },
+  {
+    "id": "mounted-cavaliers-paladins-rangers",
+    "sourceGroup": "Mounted - Cavs, Paladins, Rangers",
+    "fileName": "mounted-cavaliers-paladins-rangers.zip",
+    "byteSize": 81772672,
+    "sha256": "cb34ed5971071d2208c0d59f8694829a99eda70370f8755b8679630298f2f20c",
+    "fileCount": 28477,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/mounted-cavaliers-paladins-rangers.zip"
+  },
+  {
+    "id": "mounted-dismounted-monsters-misc",
+    "sourceGroup": "Mounted - Dismounted, Monsters, Misc",
+    "fileName": "mounted-dismounted-monsters-misc.zip",
+    "byteSize": 27176492,
+    "sha256": "6d8ff4505059b5fbb93c8b45a53e3130407e48787ad640ac753e72263ebefb79",
+    "fileCount": 6741,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/mounted-dismounted-monsters-misc.zip"
+  },
+  {
+    "id": "mounted-pegasi-wyverns-griffons",
+    "sourceGroup": "Mounted - Pegs, Wyverns, Griffons",
+    "fileName": "mounted-pegasi-wyverns-griffons.zip",
+    "byteSize": 70579991,
+    "sha256": "25a251bf05e733550d51e1e32cd0d9ca4af5a0493a2bd75b61d1b78825c093c4",
+    "fileCount": 17169,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/mounted-pegasi-wyverns-griffons.zip"
+  },
+  {
+    "id": "mounted-valkyries-mage-knights-magi",
+    "sourceGroup": "Mounted - Valks, MKs, Magi",
+    "fileName": "mounted-valkyries-mage-knights-magi.zip",
+    "byteSize": 26242951,
+    "sha256": "1bb3b8def879382456b83c5e6243d4d25de6f04e84131631cf420269d334b46e",
+    "fileCount": 9595,
+    "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/mounted-valkyries-mage-knights-magi.zip"
+  }
+]

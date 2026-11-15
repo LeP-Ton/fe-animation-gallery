@@ -1,0 +1,13 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Soldier-Custom] FE15-Style [M] by Nuramon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BSoldier-Custom%5D%20FE15-Style%20%5BM%5D%20by%20Nuramon
+
+F2U/F2E
+
+FE10 Soldier animated by Flasuban.
+
+FE10 Enhanced Revision by Nuramon.
+
+FE15-Style Reskin by Nuramon, based on Jeorge Red's still. Uses FE10 Enhanced Revision as a base.
+
+
+

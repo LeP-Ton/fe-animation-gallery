@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE6 Roy-Variant] Mystic Knight Repalette [F] by Reyk_Retro0337
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE6%20Roy-Variant%5D%20Mystic%20Knight%20Repalette%20%5BF%5D%20by%20Reyk_Retro0337
+
+F2U/F2E
+
+Animation by Linkain, Pikmin1211.
+
+Scripting and Formatting by Reyk_Retro0337.

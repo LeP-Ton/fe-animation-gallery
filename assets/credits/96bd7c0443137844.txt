@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Dancer-Base] [F] Vanilla FE8 Tethys +Weapons
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Tethys%20%2BWeapons
+
+Vanilla animation by IS
+
+Sword by Circleseverywhere.
+
+Refresh (FE7) by Marlon0024.
+
+Refresh (Fixed) by Kao.
+
+Magic Animation by SaintRubenio.

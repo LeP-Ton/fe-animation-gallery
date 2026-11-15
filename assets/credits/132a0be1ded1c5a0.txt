@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Skeleton-Base] [U] Bonewalker (one arm, sword) by Alexsplode
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Base%5D%20%5BU%5D%20Bonewalker%20%28one%20arm%2C%20sword%29%20by%20Alexsplode
+
+Vanilla Skelton animation by IS.
+
+Arm chopped off by Alexsplode.

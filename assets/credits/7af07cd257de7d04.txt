@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Mounted - Valks, MKs, Magi/[Valkyrie-Base] Vanilla +Alt [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks%2C%20MKs%2C%20Magi/%5BValkyrie-Base%5D%20Vanilla%20%2BAlt%20%5BF%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Magic w/staff animation by seergiioo.
+
+Daggers by DatonDemand. (Daggerang Handaxe works similarly to vanilla handaxes animation wise.)
+
+Crit motion by Ellie, Mommy Who Loves You!

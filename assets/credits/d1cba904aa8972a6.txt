@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[Gunner-Custom] Saoirse Bersagliere [F] by VelvetKitsune
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20Saoirse%20Bersagliere%20%5BF%5D%20by%20VelvetKitsune
+
+F2U/F2E
+
+Animation by VelvetKitsune.
+
+In order to get the 'proper' sound working you will need to import the '104 Revolver (Saoirse Attack)' file into sound slot 104 and set the 'Priority' to 00050005 = Mid-Low

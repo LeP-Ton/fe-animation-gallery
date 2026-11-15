@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Variant] Sideslash Vanilla-Style [M] by Der
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Variant%5D%20Sideslash%20Vanilla-Style%20%5BM%5D%20by%20Der
+
+F2U/F2E
+
+Side-slashing Dozlazerker variant originally made by Aruka and Kenpuhu.
+
+Derserker variant made by DerTheVaporeon.
+
+Sword by CookieMaster.
+
+Axe (Alt Crit) by Enthusiasm.

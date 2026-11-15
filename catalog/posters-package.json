@@ -1,0 +1,8 @@
+{
+  "fileName": "preview-posters.zip",
+  "url": "https://github.com/LeP-Ton/fe-animation-gallery/releases/download/assets-v1/preview-posters.zip",
+  "byteSize": 13457832,
+  "sha256": "afcaa329257c9d626bee4aa3bff020f7f7f2192e8c48264098011475efeba2cb",
+  "fileCount": 6852,
+  "description": "由原始GIF首帧生成的静态缩略图，仅供站点构建使用。"
+}

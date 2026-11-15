@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] FE6-Style with Boots [M] by Greentea
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20FE6-Style%20with%20Boots%20%5BM%5D%20by%20Greentea
+
+F2U/F2E
+
+Erk Base animation by Greentea.
+
+Generic FE6 Variant by tristan_hollow. 

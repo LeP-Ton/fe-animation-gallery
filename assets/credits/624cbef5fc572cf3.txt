@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Dark-Type/[T3 Custom] Dark Prince Julius [M] by Obs
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Custom%5D%20Dark%20Prince%20Julius%20%5BM%5D%20by%20Obs
+
+F2U/F2E
+
+Custom animation by Obsidian Daddy. 
+
+Scripting by Rexacuse, Leo Link.
+
+OAM saving version by 7743.

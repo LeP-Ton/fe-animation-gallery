@@ -1,0 +1,20 @@
+原始目录：Battle Animations/Infantry - (Swd) Thieves, Rogues, Assassins/[Sword Custom] Ninja - Hooded [U] by Pikmin and Der
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Thieves%2C%20Rogues%2C%20Assassins/%5BSword%20Custom%5D%20Ninja%20-%20Hooded%20%5BU%5D%20by%20Pikmin%20and%20Der
+
+F2U/F2E
+
+Design by Pikmin1211
+
+Knife animation by DerTheVaporeon
+
+Sword animation by DerTheVaporeon
+
+Unarmed animation by DerTheVaporeon
+
+Hooded version by Seliost1.
+
+Palettes by DerTheVaporeon and Pikmin1211
+
+Map Sprites by DerTheVaporeon
+
+Class Card by DerTheVaporeon

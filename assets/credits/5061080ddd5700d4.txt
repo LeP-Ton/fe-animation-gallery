@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Advance Wars Animation Ports/[Yellow Comet] Mobile Missile Launcher {Amyd, Dark}
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BYellow%20Comet%5D%20Mobile%20Missile%20Launcher%20%7BAmyd%2C%20Dark%7D
+
+- Sprites By {Amyd}
+
+- Coding and Formatting by Dark. (Kurwa Dark!)

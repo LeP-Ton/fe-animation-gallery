@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Mogall-Variant] [U] Watcher by Alexsplode
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BMogall-Variant%5D%20%5BU%5D%20Watcher%20by%20Alexsplode
+
+Vanilla Monk animation by IS. 
+
+Vanilla Mogall animation by IS.
+
+Watcher animation by Alexsplode.
+
+Scripting by Alexsplode.
+
+Map sprites and mug edited by Alexsplode.

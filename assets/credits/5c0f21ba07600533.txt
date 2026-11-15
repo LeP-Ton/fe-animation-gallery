@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Dragon-L95] [U] Divine Dragon Tiki by Jotari
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Divine%20Dragon%20Tiki%20by%20Jotari
+
+The base Tiki animation was done by Tykky.
+
+The transformed Divine Dragon animation was done by L95. 
+
+The transformation and revertion animations were done by Jotari.

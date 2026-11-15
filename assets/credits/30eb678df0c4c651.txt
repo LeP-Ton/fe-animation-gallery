@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] FE6-FE7-Style +Pants [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20FE6-FE7-Style%20%2BPants%20%5BF%5D
+
+F2U/F2E
+
+Magic and Staff Basic Animations by Levin64, improved by HyperGammaSpaces.
+
+Magic (with staff) Animations by Nuramon.
+
+Ponytail edit by GigaExcalibur, physics in the hair by UltraFenix.

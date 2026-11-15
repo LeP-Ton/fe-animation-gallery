@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[Gunner-Custom] Flintlocker [U] by ObsidianDaddy
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BGunner-Custom%5D%20Flintlocker%20%5BU%5D%20by%20ObsidianDaddy
+
+F2U/F2E
+
+Animation by ObsidianDaddy.
+
+Scripting by ZoramineFae.

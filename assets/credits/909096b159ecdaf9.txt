@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Dancer-Base] [F] Vanilla FE7 Ninian +Weapons
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE7%20Ninian%20%2BWeapons
+
+Vanilla animation by IS.
+
+Lance by MeatOfJustice.
+
+Staff by Mikey_Seregon.
+
+Dragonstone by Marlon0024.
+
+Ice and Fire Transform/Revert animations inspired by Marlon0024.
+
+Ice and Fire Transform/Revert animations made by Sirknite31.

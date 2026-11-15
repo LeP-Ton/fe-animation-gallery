@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Cavalier-Base] [F] Vanilla +Bow
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BCavalier-Base%5D%20%5BF%5D%20Vanilla%20%2BBow
+
+Vanilla animation by IS.
+
+Axe/Handaxe by Skitty and Pushwall.
+
+Bow by DerTheVaporeon, Kao, and Aurora.
+
+2. Lance (Ranged magic) by Seliost1.
+
+Unarmed (Mount only) by tatata.

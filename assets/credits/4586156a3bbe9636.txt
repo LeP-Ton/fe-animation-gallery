@@ -1,0 +1,15 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[General-Reskin] Dark Skin Helmetless [M] by Alice
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BGeneral-Reskin%5D%20Dark%20Skin%20Helmetless%20%5BM%5D%20by%20Alice
+
+F2U/F2E
+
+Base General by IS
+
+Tomahawk Melee Animation by TheBlindArcher.
+
+Helmetless and Dark Skin Edit by Alice
+
+Magic Axe frames by Tatutachang.
+
+NOTE: Palettes from Vanilla should mostly be compatible with this animation, as the palette order is the same. Even with the Dark Skin, the lighter "skin" tones are used JUST for the Armor trim.
+4th Armor color was turned into 3rd hair color.

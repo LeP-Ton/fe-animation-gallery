@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Soldier-Custom] FE10-Style [M] by Flasuban
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BSoldier-Custom%5D%20FE10-Style%20%5BM%5D%20by%20Flasuban
+
+F2U/F2E
+
+Flasuban sprited the base version of the FE10 Soldier.
+
+Slow/Angled is Flasuban's first version.
+
+Fast/Straight is a revision based off the vanilla GBA Soldier movements, made to look more like the GBA timings. This was animated by Nuramon.
+
+Sword animation is based on the Fast/Straight animation done by Nuramon. This was animated by Craigrandall55.
+
+2. Lance (Echoes Lance) by UltraFenix.
+
+Magic by tatata.

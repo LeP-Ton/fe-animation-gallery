@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Manakete-Base] [F] Vanilla FE6 Fae +FE7
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Fae%20%2BFE7
+
+Vanilla animation by IS.
+
+FE7 Dragonstone by Circleseverywhere.
+
+Revert (Any) by Seliost1.

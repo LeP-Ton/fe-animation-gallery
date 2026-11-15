@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Spider-Variant] [F] Bael Widow by Alexsplode
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSpider-Variant%5D%20%5BF%5D%20Bael%20Widow%20by%20Alexsplode
+
+Vanilla Bael sprites by IS. 
+
+Bael Sorceress animation by Alexsplode.
+
+Scripting by Alexsplode.

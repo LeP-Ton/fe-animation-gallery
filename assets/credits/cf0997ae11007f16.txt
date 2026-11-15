@@ -1,0 +1,11 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] FE8 Repal [M] by UltraFenix
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20FE8%20Repal%20%5BM%5D%20by%20UltraFenix
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Fixed magic by Shin19.
+
+Repal by UltraFenix, using as base the reskin Animations by Levin64, improved by HyperGammaSpaces.
+

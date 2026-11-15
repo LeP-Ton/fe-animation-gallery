@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Custom] Limstella v3 [F] by Greentea +Palettes
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Custom%5D%20Limstella%20v3%20%5BF%5D%20by%20Greentea%20%2BPalettes
+
+F2U/F2E
+
+Animation by Greentea.
+
+Scripting(???) by Zoisite.
+
+This animation has a bunch of extra palette options for the player/etc types. To get all the palette options, import via bin.

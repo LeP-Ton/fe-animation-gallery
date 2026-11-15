@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Lyn-Reskin] T2 Variant [F] by Jey the Count
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20T2%20Variant%20%5BF%5D%20by%20Jey%20the%20Count
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Variant by Jey the Count.
+
+Bow palette fix by RiriK.

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Mounted - Valks, MKs, Magi/[MK-Reskin] AS Theodor [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Valks%2C%20MKs%2C%20Magi/%5BMK-Reskin%5D%20AS%20Theodor%20%5BM%5D
+
+F2U/F2E
+
+Original animation by IS
+
+Ranger Lance animation by Skitty and Feaw.
+
+Sword (Thunder-crit) by Aruka, Kenpuhu.
+
+Theodor edit by NamelessX.

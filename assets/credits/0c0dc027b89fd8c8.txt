@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Variant] Yetizerker Smoothed-Axe [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Variant%5D%20Yetizerker%20Smoothed-Axe%20%5BM%5D
+
+Improved/Smoothed Axe by BwdYeti. F2U only.
+
+Scripting by Shadowofchaos.
+
+Red Variant by Red. This version causes the axe to arc backward in a swing. Also has a axe magic animation.
+
+Note that these animations are designed to work, palette-wise, with the Vanilla Berserker's Handaxe and Unarmed frames.

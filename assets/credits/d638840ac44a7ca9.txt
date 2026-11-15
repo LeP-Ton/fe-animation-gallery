@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Mercenary-Custom] FF7 - Cloud [M] by FlyingAce
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BMercenary-Custom%5D%20FF7%20-%20Cloud%20%5BM%5D%20by%20FlyingAce
+
+Made by FlyingAce24.
+
+Improved by Dark Seraph.
+
+Sword (Traditional Ranged) and Sword (Blade Beam) by Seliost1.
+
+Magic animation by Seliost1.
+
+Sword (Materia Magic, and Vanilla) by Seliost1.
+
+Unarmed by Seliost1.

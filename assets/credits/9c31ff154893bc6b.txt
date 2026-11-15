@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Magi - Holy-Type/[T3.1 Bishop] Patriarch [M] by MrNight48
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT3.1%20Bishop%5D%20Patriarch%20%5BM%5D%20by%20MrNight48
+
+F2U/F2E
+
+Made by MrNight48.
+
+Looping cape and crit animations fixed by DerTheVaporeon.
+
+Made for the fangame FE7 Chaos Mode.
+
+https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/

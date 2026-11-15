@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Thieves, Rogues, Assassins/[Trickster-Type] Yggdra Valkyrie Generic [F] by Aruka
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Thieves%2C%20Rogues%2C%20Assassins/%5BTrickster-Type%5D%20Yggdra%20Valkyrie%20Generic%20%5BF%5D%20by%20Aruka
+
+F2U/F2E
+
+Made by Aruka, Kenpuhu.
+
+Staff melee fix by Seliost1.

@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Hero-Base] Vanilla FE6 Echidna +Lance [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BHero-Base%5D%20Vanilla%20FE6%20Echidna%20%2BLance%20%5BF%5D
+
+F2U/F2E
+
+Animation by IS.
+
+Lance by Pushwall.
+
+Axe (+Handaxe) by Yerek.
+
+Shield Edit by tatutachang.
+
+Sword (Durandal) animation by tatata.
+
+Axe (Armads) animation by tatata.
+
+Note: The shield edit does not use the shield loop command in the script. It can be edited frame by frame.

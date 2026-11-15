@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Bard-Style] [F] Elffin Sonneteer
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BBard-Style%5D%20%5BF%5D%20Elffin%20Sonneteer
+
+marlon0024, April 2020 in the Repository thread is the source of this anim (Original Anim)
+
+ZoramineFae for repalette, frame order changes, female version

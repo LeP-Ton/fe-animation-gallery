@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Soldier-Custom] Cu Chulainn [M] by Sphealnuke
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BSoldier-Custom%5D%20Cu%20Chulainn%20%5BM%5D%20by%20Sphealnuke
+
+F2U/F2E
+
+Animation by Sphealnuke.
+
+Commissioned by Daft.
+
+Huge thanks to 2WB for making the full-screen effect able to fit into the GBA games.
+
+The "Fate" franchise is property of Type-Moon. Please support the official releases.

@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Dragoon] Dragoon Repal [U] by Pikmin
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BDragoon%5D%20Dragoon%20Repal%20%5BU%5D%20by%20Pikmin
+
+F2U/F2E
+
+Original Dragoon by Mercenary Lord and NYZGamer
+
+Repalette and touchups by Pikmin1211
+
+Lance animation by Maiser6
+
+Unarmed animation by Maiser6
+
+Map Sprites by Pikmin1211 (Original Uncredited)
+
+Class Card by Pikmin1211 (Original Uncredited)
+
+Alt Lance by 7743.

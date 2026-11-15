@@ -1,0 +1,4 @@
+原始目录：Battle Animations/Advance Wars Animation Ports/[Blue Moon] TRS Wood Shooter (U) {Amyd, Dark, Merpin}
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BBlue%20Moon%5D%20TRS%20Wood%20Shooter%20%28U%29%20%7BAmyd%2C%20Dark%2C%20Merpin%7D
+
+Ported by Merpin.

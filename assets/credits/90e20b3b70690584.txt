@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Unarmed) Brawlers, Fistfighters/[Brawler] Kicker (F) by Redbean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Unarmed%29%20Brawlers%2C%20Fistfighters/%5BBrawler%5D%20Kicker%20%28F%29%20by%20Redbean
+
+F2U/F2E
+
+Animation by Redbean.
+
+Scripted by Seliost1.

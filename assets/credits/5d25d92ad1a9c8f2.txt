@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Hawkeye] Hawkzerker [M] by TBA
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Hawkeye%5D%20Hawkzerker%20%5BM%5D%20by%20TBA
+
+F2U/F2E
+
+Original Hawkeye base by IS.
+
+Hawkzerker variant by TheBlindArcher. (Axe, Handaxe)
+
+Sword and Unarmed by Maiser6.
+
+Fixed Handaxe by TBA and Maiser6.
+
+Lance, Bow, Magic, and Staff by ZoramineFae.
+
+Greatsword by NX.
+
+Magic Axe animations UltraFenix.

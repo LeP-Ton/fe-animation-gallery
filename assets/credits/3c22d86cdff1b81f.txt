@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Paladin-Variant] [F] SALVAGED Base
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Base
+
+Team SALVAGED, HGS, Levin64, RJ_Exists, Obsidian_Daddy
+
+Magic Anim Conversion for F.Paladin by WhatIsAnAubin
+
+Magic Axe animations UltraFenix.

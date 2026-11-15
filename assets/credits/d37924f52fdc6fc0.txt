@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Myrmidon-Base] Vanilla FE7 Guy +Bow [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BMyrmidon-Base%5D%20Vanilla%20FE7%20Guy%20%2BBow%20%5BM%5D
+
+F2U/F2E
+
+Base sword/unarmed animations by IS.
+
+Bow by N426.

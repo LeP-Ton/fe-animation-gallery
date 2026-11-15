@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Polearm] Sergeant [M] by Spud
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Polearm%5D%20Sergeant%20%5BM%5D%20by%20Spud
+
+F2U/F2E
+
+Spud, Leolink, Iscaneous, Nuramon
+
+Axe and Handaxe frames by ltranc.
+
+Fixes to the Sword and Lance Script to have it play the crit+flash critical hit effect.

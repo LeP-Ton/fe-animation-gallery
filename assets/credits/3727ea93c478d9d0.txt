@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Halb] Halberdier Skeleberdier [U]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Halb%5D%20Halberdier%20Skeleberdier%20%5BU%5D
+
+F2U/F2E
+
+Base animation by TheBlindArcher. Further improvements added by Spud, MeatofJustice.
+
+Reskin by UltraFenix, Commissioned by d_h.
+
+Map Sprites by Dei, dondon151, d_h.
+
+3. Axe (Stab)  by tatata
+
+3. Axe (Swing) by tatata
+
+4. Handaxe by tatata

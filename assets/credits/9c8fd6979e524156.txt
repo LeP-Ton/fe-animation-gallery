@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[Crossbowman] Bowgunner [M] by Epicer
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BCrossbowman%5D%20Bowgunner%20%5BM%5D%20by%20Epicer
+
+F2U/F2E
+
+This animation is based on/edited from the following animations:
+
+[Archer-Reskin] [M] Der's Normal Hair
+
+[FE8 Ephraim-Variant] [M] T1 Vanilla Repack +Weapons
+
+This animation was made by Epicer.
+
+Bow (Crouch) by DatonDemand.

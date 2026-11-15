@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[FE7 Lyn-Reskin] T1 Fir-Style Myrmidon [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BFE7%20Lyn-Reskin%5D%20T1%20Fir-Style%20Myrmidon%20%5BF%5D
+
+F2U/F2E
+
+Base animation by IS.
+
+Reskin by Knabepicer.

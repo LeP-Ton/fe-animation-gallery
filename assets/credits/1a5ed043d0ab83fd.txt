@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[WL Reskin] [U] Dragoon Rider by Nuramon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BWL%20Reskin%5D%20%5BU%5D%20Dragoon%20Rider%20by%20Nuramon
+
+Animation by Mycahel, Nuramon.
+
+No-Bounce animations by The_Big_Dededester.
+
+Note that the concept of this animation is based off Mercenary Lord's 'Dragoon' animation in the T2 Lancer section.

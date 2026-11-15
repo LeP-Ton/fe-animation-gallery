@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Holy-Type/[Monk-Base] Repal V2 [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BMonk-Base%5D%20Repal%20V2%20%5BF%5D
+
+Original repalette by UltraFenix.
+
+Palette edit based on Teraspark's F!Monk by Itranc. 
+
+Edits to make the eyes black, instead of using a hair color, and using the lightest (blue in the default player palette) clothing color on the magic effect instead of a skin color.

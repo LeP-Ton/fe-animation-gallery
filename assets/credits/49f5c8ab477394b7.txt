@@ -1,0 +1,21 @@
+原始目录：Battle Animations/Infantry - (Swd) Thieves, Rogues, Assassins/[Assassin-Base] [M] Jaffar Vanilla Repal by Huichelaar
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Thieves%2C%20Rogues%2C%20Assassins/%5BAssassin-Base%5D%20%5BM%5D%20Jaffar%20Vanilla%20Repal%20by%20Huichelaar
+
+F2U/F2E
+
+Original animation by IS. 
+
+Knife by JJ09.
+
+Lyn-Bow by BatimaTheBat.
+
+Bow and Knife repal by UltraFenix
+
+Repalette by Huichelaar.
+
+Sword (Knife + Sword) by Itranc.
+
+Small re-repalette by darkjaden
+	-(replaced a single pixel in the boots that was taking up a color slot and added a third hair shade)
+
+	-(this animation now shares the exact same palette order as the other Assassin repalette I did of the female ponytail Assassin)

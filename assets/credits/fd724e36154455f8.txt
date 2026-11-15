@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Hawkeye] Hawkzerker [F] by Maiser6
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Hawkeye%5D%20Hawkzerker%20%5BF%5D%20by%20Maiser6
+
+F2U/F2E
+
+Design by Pikmin1211
+
+Sword, Axe, Handaxe, and Unarmed by Maiser6.
+
+Lance and Bow by ZoramineFae.
+
+Map Sprite by Pikmin1211 and DerTheVaporeon
+
+Class Card by DerTheVaporeon.
+
+Magic Axe animations UltraFenix.

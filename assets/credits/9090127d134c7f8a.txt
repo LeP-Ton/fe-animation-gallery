@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Special/[T3 Custom] [M] Red Mage by Mycahel
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Special/%5BT3%20Custom%5D%20%5BM%5D%20Red%20Mage%20by%20Mycahel
+
+Animation by Mycahel. 
+
+Removed Text and Fixed Miss by Dededester.
+
+Flashy ranged Crit by Seliost1.
+
+Sword Edit by 7743.

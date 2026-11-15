@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Journeyman-Type] Waleed's Squire V3
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BJourneyman-Type%5D%20Waleed%27s%20Squire%20V3
+
+F2U/F2E
+
+Original [Journeyman] by IS
+
+Squire made by Waleed
+
+Additions made by Booster_Seat87
+
+Ranged animation from Journeyman-base Vanilla + Weapons Seliost1
+
+Keeps v2 design and Repal and adds ranged animations, unarmed animations, and a more mercenary accurate dodge frame

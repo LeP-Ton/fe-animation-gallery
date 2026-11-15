@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] Vatti [M] by Lord Siravant
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Vatti%20%5BM%5D%20by%20Lord%20Siravant
+
+F2U/F2E
+
+Animation by Lord Siravant, Spritetrooper.
+
+Scripting and Formatting by ReykRS.
+
+Note: Don't show the effect for the critical attack.

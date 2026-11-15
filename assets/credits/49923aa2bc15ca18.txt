@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Hector-Variant] T1 Harbinger [U] by tatata
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Variant%5D%20T1%20Harbinger%20%5BU%5D%20by%20tatata
+
+F2U/F2E
+
+Animation by tatata.
+
+Sword desgin by Zane Avernathy. Ported by tatata.
+
+Broadsword desgin by Seliost1. Ported by tatata.
+
+Axe (Punch Crit) motion by Vilkalizer. Ported by tatata.
+
+Handaxe (Alt Crit 1/2) motion by Seliost1. Ported by tatata.
+
+

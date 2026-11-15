@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Manakete-Base] [F] Vanilla FE8 Myrrh +FE7
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Base%5D%20%5BF%5D%20Vanilla%20FE8%20Myrrh%20%2BFE7
+
+Vanilla animation by IS.
+
+Magic (Gran Caster) {Seal, Sacred War}
+
+Magic {Seal, Sacred War}
+
+Dragonstone (FE7) {Circleseverywhere}

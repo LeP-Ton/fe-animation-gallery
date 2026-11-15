@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Holy-Type/[T2 Bishop-Type] Inquisitor [F] by Jey
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Holy-Type/%5BT2%20Bishop-Type%5D%20Inquisitor%20%5BF%5D%20by%20Jey
+
+F2U/F2E
+
+Animation by JeyTheCount.
+
+This animation is very choppy and could use a community rework to bring it up to par with the rest of the repo.

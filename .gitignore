@@ -1,0 +1,6 @@
+site/
+assets/previews/
+assets/posters/
+__pycache__/
+.DS_Store
+*.log

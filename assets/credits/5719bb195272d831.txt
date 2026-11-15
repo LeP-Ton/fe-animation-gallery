@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Journeyman-Type] Waleed's Squire v2 Repal [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BJourneyman-Type%5D%20Waleed%27s%20Squire%20v2%20Repal%20%5BM%5D
+
+F2U/F2E
+
+Made by Waleed.
+
+Note that despite being an improved repalette, this folder is missing an Unarmed animation.

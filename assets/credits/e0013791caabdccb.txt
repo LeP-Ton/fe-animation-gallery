@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[WR Reskin] [M] Repal by UltraFenix
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BWR%20Reskin%5D%20%5BM%5D%20Repal%20by%20UltraFenix
+
+Vanilla animation by IS.
+
+Sword by SamirPlayz.
+
+Axe and Handaxe by eCut
+
+Bow by PrincessKilvas, Spud, Blue Druid.
+
+Repal by UltraFenix.
+
+Extra frames inspired by Leo_link's Armless Wyvern animation

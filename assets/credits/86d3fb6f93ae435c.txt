@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Magi - Nature-Type/[T3 FE7] Archsage Athos +Fixes [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20FE7%5D%20Archsage%20Athos%20%2BFixes%20%5BM%5D
+
+F2U/F2E
+
+Vanilla magic/staff animations by IS.
+
+Alt Particles made by SHYUTERz.
+
+Magic (FE8) by Blademaster.
+
+Magic (FEx) by SHYUTERz.
+
+Fixed magic by Shin19.
+
+Fixed staff by Shin19.

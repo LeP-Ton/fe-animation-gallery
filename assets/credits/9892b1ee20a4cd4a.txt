@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[General-Variant] IronShell-Tiny General [U] by Alexsplode
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BGeneral-Variant%5D%20IronShell-Tiny%20General%20%5BU%5D%20by%20Alexsplode
+
+F2U/F2E
+
+Vanilla General and Pupil sprites by IS. 
+
+IronShell animation by Alexsplode.
+
+Scripting by Alexsplode.
+
+Map sprites and mug edited by Alexsplode.

@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Dancer-Reskin] [F] Ashera Repal by XaneLover
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BDancer-Reskin%5D%20%5BF%5D%20Ashera%20Repal%20by%20XaneLover
+
+F2U/F2E
+
+Created using [Dancer-Base] Vanilla FE7 Ninian +Weapons: animation Staff by Mikey_Seregon as a base and modified by me, XaneLover.

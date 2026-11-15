@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Hero-Variant] Raven [M] by FelixRay
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20Raven%20%5BM%5D%20by%20FelixRay
+
+F2U/F2E
+
+Echidna Animation used as a base.{Red Bean, Zelix}
+
+Raven reskin by FelixRay.
+
+1. Sword (Binding Blade) port by Seliost1.

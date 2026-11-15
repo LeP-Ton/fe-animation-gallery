@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Ranger-Custom] [M] Leo's Bow Knight
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BRanger-Custom%5D%20%5BM%5D%20Leo%27s%20Bow%20Knight
+
+F2U/F2E
+
+Animation by Leo_link, Team SALVAGED, Spud.
+
+Script and Army palettes by Alice.
+
+Bow (Alt Crit), Bow (Alt Melee), and Bow (Simple Attack) edits by Seliost1.

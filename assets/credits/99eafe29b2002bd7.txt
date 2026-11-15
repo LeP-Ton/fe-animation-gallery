@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Cavalier-Variant] Birdfolk by Dutch Introvert
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BCavalier-Variant%5D%20Birdfolk%20by%20Dutch%20Introvert
+
+Axe Alt1 animation from the FE Graphics Repo (no idea who actually did that anim).
+
+Map sprite base by Siuloir.
+
+Birdfolk modifications by An odd Dutch Introvert.

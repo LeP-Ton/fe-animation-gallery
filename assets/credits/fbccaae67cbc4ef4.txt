@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE14 Lord Custom] Camilla [F] by SteamingTofu
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE14%20Lord%20Custom%5D%20Camilla%20%5BF%5D%20by%20SteamingTofu
+
+F2U/F2E
+
+Animation custom-made by SteamingTofu.
+
+Handaxe (Alt Crit), Handaxe (Bigger handaxe), and magic Axe frames edit by Seliost1.

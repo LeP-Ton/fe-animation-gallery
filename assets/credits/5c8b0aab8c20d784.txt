@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Mage-Base] Vanilla FE6 +Fix [M] by Shin19
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Base%5D%20Vanilla%20FE6%20%2BFix%20%5BM%5D%20by%20Shin19
+
+F2U/F2E
+
+Vanilla animation by IS. 
+
+Fixed magic by Shin19.

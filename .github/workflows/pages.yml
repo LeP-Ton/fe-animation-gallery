@@ -1,0 +1,37 @@
+name: 发布动画预览下载站
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 检出站点源码
+        uses: actions/checkout@v6
+      - name: 验证筛选和导出规则
+        run: node --test tests/*.test.js
+      - name: 从Release还原素材并构建静态页
+        run: python3 scripts/build_site.py --restore-previews
+      - name: 配置Pages
+        uses: actions/configure-pages@v5
+      - name: 上传Pages站点
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: 部署Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

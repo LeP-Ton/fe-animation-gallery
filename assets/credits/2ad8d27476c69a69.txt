@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Zombie-Base] [U] Vanilla Entombed +Ranged
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Base%5D%20%5BU%5D%20Vanilla%20Entombed%20%2BRanged
+
+Vanilla animation by IS.
+
+Magic animation by Teraspark.

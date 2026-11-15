@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Larcei [F] by SteamingTofu
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Larcei%20%5BF%5D%20by%20SteamingTofu
+
+F2U/F2E
+
+Animation by SteamingTofu.
+
+More 'Physics' by 7743.

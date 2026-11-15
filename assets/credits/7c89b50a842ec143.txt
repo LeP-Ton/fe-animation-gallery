@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Dismounted, Monsters, Misc/[Cavalier-Custom] Snail Knight [M] by Squid1003
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted%2C%20Monsters%2C%20Misc/%5BCavalier-Custom%5D%20Snail%20Knight%20%5BM%5D%20by%20Squid1003
+
+F2U/F2E
+
+Snail Knight Animation by Squid1003.
+
+Special thanks to 2wb for extensive feedback and advice.

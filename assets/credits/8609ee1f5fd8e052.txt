@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Paladin-Variant] [M] Lowen by UltraFenix
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BPaladin-Variant%5D%20%5BM%5D%20Lowen%20by%20UltraFenix
+
+Original animation by Greentea.
+
+Lowen edit by UltraFenix.
+
+Lowen Lance frame fix by Jj09.

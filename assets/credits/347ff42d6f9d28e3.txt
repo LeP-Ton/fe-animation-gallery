@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Magi - Nature-Type/[T3 Custom] Archsage [M] by Nuramon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BT3%20Custom%5D%20Archsage%20%5BM%5D%20by%20Nuramon
+
+F2U/F2E
+
+Still and Animation by Nuramon.
+
+Boots by Plant Academy.
+
+Swirl vfx by Dachi.
+
+Orb vfx by Steaming Tofu.
+
+Optional sound effects by Melledoneus.

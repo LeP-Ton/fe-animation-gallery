@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Hector-Custom] T2 Brave Hector Repal [M] by Sax-Marine
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Hector-Custom%5D%20T2%20Brave%20Hector%20Repal%20%5BM%5D%20by%20Sax-Marine
+
+F2U/F2E
+
+Original animation by Nuramon.
+
+Repalette by Sax-Marine.
+
+Armads ported by tatata.
+
+Magic by tatata.

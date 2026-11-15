@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Lyn-Reskin] T2 Hatsune Miku [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20T2%20Hatsune%20Miku%20%5BF%5D
+
+F2U/F2E
+
+Animation by 水野武弘 (Takehiro Mizuno).
+
+Formatting by GibGib!.
+
+Updated Bow animation and script by Seliost1.

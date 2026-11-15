@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Base] Vanilla Repal [M] by Blue Druid
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Base%5D%20Vanilla%20Repal%20%5BM%5D%20by%20Blue%20Druid
+
+F2U/F2E
+
+Original Berserker by IS.
+
+Repalette by Blue Druid.
+
+Magic Axe by Raulster/Alice. Inspired by DerTheVaporeon's Berserker animation.
+
+Smoothed Versions by UltraFenix, using as base:
+DerTheVaporeon's Berserker animation.
+Berserker Rider by Zoramine.
+CentaurZerker by Alexsplode.
+Juggernaut by Sphealnuke.
+
+New Spin axe frames by Jeorge Reds (with permission)

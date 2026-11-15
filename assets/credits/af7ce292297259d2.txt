@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Mage-Reskin] Apprentice [F] by BBHood217
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20Apprentice%20%5BF%5D%20by%20BBHood217
+
+F2U/F2E
+
+Based on the Vanilla F Mage (Lilina).
+
+Ponytail added by Lisandra Brave.
+
+Apprentice Variant by BBHood217.

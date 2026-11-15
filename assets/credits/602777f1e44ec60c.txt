@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[HunterD] Hunter [F] by Deranger
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BHunterD%5D%20Hunter%20%5BF%5D%20by%20Deranger
+
+F2U/F2E
+
+Made by Deranger.
+
+Female variant by Jey the Count.
+
+Note that Deranger's hunters are among the oldest in the community, and as such, could use some touchups. MeatOfJustice made a revamped Hunter, but a simple set of timing/frame fixes for the original Ranger does not yet exist.

@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Dark-Type/[Druid-Reskin] [M] Horned Druid by Dejais
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BDruid-Reskin%5D%20%5BM%5D%20Horned%20Druid%20by%20Dejais
+
+F2U/F2E
+
+Base Animation by IS
+
+Magic by Dejais
+
+Staff by Dejais

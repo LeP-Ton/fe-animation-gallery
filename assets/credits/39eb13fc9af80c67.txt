@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Advance Wars Animation Ports/[Green Earth] Recon {Amyd, Dark}
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Advance%20Wars%20Animation%20Ports/%5BGreen%20Earth%5D%20Recon%20%7BAmyd%2C%20Dark%7D
+
+- Sprites By {Amyd}
+
+- Coding and Formatting by Dark. (Kurwa Dark!)

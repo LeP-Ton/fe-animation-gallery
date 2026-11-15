@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Magi - Dark-Type/[T2 Summoner-Base] Vanilla +Axes [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT2%20Summoner-Base%5D%20Vanilla%20%2BAxes%20%5BM%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Axe and handaxe by Spud, TBA.
+
+Fixes to the magic animation(???) by Eldritch Abomination.
+
+Skeleton Bow summon by Jotari.

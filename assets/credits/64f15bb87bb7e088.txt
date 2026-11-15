@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Dragon-L95] [U] Mage Dragon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BDragon-L95%5D%20%5BU%5D%20Mage%20Dragon
+
+Mage Dragon by L95.
+
+Transformation/Reverting by Jotari
+
+FE6 style Transformation/Reverting by Fiuke Bnuy.

@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE10 Lord Custom] Ike Vanguard [M] by FlyingAce24
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE10%20Lord%20Custom%5D%20Ike%20Vanguard%20%5BM%5D%20by%20FlyingAce24
+
+F2U/F2E
+
+Made by FlyingAce24.
+
+Scripted by Primefusion.
+
+Sword (Default) by Seliost1.
+
+Sword (Flashy Ranged) by Seliost1.
+
+Handaxe (Spin Crit) by Seliost1.

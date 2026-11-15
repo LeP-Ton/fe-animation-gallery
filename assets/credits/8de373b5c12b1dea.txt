@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Custom] Bushido Swordzerker [M] by Intestine
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Custom%5D%20Bushido%20Swordzerker%20%5BM%5D%20by%20Intestine
+
+F2U/F2E
+
+Intestine, IS, Maiser6, TBA, The_Big_Dededester
+
+Sword (Alt) by ZoramineFae and Jj09.
+
+Magic by Jj09.
+
+Note: The Sword (Alt) animation combines ZoramineFae's defualt attack animation and the vanilla critical animation.
+
+Note2: The magic critical animation uses the sage's critical rune code.

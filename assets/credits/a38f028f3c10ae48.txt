@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Warrior-Reskin] Helmetless [M] by Monk-Han
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BWarrior-Reskin%5D%20Helmetless%20%5BM%5D%20by%20Monk-Han
+
+F2U/F2E
+
+Vanillia animation by IS.
+
+Helmetless version by Monk-Han.

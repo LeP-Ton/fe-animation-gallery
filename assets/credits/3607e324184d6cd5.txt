@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[Peg T1 Base] [F] Repal v2 + Weapons by Flasuban
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BPeg%20T1%20Base%5D%20%5BF%5D%20Repal%20v2%20%2B%20Weapons%20by%20Flasuban
+
+Sword/Lance/Axe/Handaxe/Unarmed/Repalette by Flasuban.
+
+Unarmed palette fix by UltraFenix.
+
+Magic by UltraFenix, using Light Mage by Leo_link and L95 as base.
+
+UltraFenix fixes a pixel mistake in all animations.

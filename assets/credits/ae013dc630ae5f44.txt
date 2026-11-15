@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE8 Ephraim-Reskin] T1 Alice [F] by Yazuki
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Ephraim-Reskin%5D%20T1%20Alice%20%5BF%5D%20by%20Yazuki
+
+F2U/F2E
+
+Animation by Yazuki.
+
+Needs an unarmed animation. (Ask and you shall receive lol.)
+
+Unarmed by Seliost1.

@@ -1,0 +1,15 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] FE8 Repal Long Hair [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20FE8%20Repal%20Long%20Hair%20%5BM%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Fixed magic by Shin19.
+
+Long hair by Faolin, Inspired by Marlon0024's work
+
+Magic (with staff) originally by Nuramon, Ported by UltraFenix.
+
+Repal by UltraFenix, using as base the reskin Animations by Levin64, improved by HyperGammaSpaces.
+

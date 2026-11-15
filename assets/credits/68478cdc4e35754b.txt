@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Thieves, Rogues, Assassins/[Thief-Variant] Dinar's Thief [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Thieves%2C%20Rogues%2C%20Assassins/%5BThief-Variant%5D%20Dinar%27s%20Thief%20%5BM%5D
+
+F2U/F2E
+
+Animation by Dinar87.
+
+Script by Seliost1.

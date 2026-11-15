@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Ranger-Reskin] [F] Naginata by RedBean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BRanger-Reskin%5D%20%5BF%5D%20Naginata%20by%20RedBean
+
+F2U/F2E
+
+Animation by RedBean.
+
+Script by 7743.
+
+2. Lance (Throw range) by Seliost1.

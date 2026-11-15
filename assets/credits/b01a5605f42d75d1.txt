@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[WL Reskin] [M] Helmetless +Axe
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Helmetless%20%2BAxe
+
+Helmetless version by Flasuban.
+
+Axe and Handaxe by TBA.

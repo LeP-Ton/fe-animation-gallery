@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[Griffon] [U] Griffon v1 Repal Fix by 7743
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BGriffon%5D%20%5BU%5D%20Griffon%20v1%20Repal%20Fix%20by%207743
+
+Griffon by Blue Druid.
+
+Repalette by Maiser6.
+
+Palette and script fix by 7743.

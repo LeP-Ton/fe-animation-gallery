@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Monster Custom] [M] Minotaur (Archdemon)
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BMonster%20Custom%5D%20%5BM%5D%20Minotaur%20%28Archdemon%29
+
+F2U/F2E
+
+Animation by Alexsplode.
+
+Demon and Archdemon edits by Idrees Shah. https://www.fiverr.com/idreesshah11
+
+commissioned by Mightyappa.
+
+Note: If you wanted a T2 recolored version, this code gives an alternate palette: 5553984235326F15CA04562990102C041F00FF7FDA2A32526E4D6B31C618A514

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Marisa Repal [F] by RedBean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Marisa%20Repal%20%5BF%5D%20by%20RedBean
+
+F2U/F2E
+
+Made by Red Bean.
+
+Scripted by Sable Mage.
+
+Repalette by Seliost1.
+
+1. Sword (Alt Crit) by Seliost1.

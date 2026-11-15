@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[Archer-Base] Vanilla FE6 Alt2 [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BArcher-Base%5D%20Vanilla%20FE6%20Alt2%20%5BF%5D
+
+F2U/F2E
+
+Animation by IS.
+
+Note that this animation is extremely similar to the other FE6 IS Female Archer animation in the Repo. The only difference seems to be a slightly adjust attack/crit timing. If there are any palette differences, I can't tell.

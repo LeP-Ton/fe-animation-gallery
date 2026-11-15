@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Mercenary-Base] Repal [M] by Eldritch
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BMercenary-Base%5D%20Repal%20%5BM%5D%20by%20Eldritch
+
+F2U/F2E
+
+Original animation by IS.
+
+Repalette by Eldritch Abomination.

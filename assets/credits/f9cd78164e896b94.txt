@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Sage-Reskin] Lucius Hair v2 [M] by Faolin
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BSage-Reskin%5D%20Lucius%20Hair%20v2%20%5BM%5D%20by%20Faolin
+
+F2U/F2E
+
+Animation by Faolin.
+
+Inspired by Marlon0024's work, remade to incorporate Shin19's magic fix and other improvements. While this animation is based off Marlon's work, it does not actually use any of his frames or stills.

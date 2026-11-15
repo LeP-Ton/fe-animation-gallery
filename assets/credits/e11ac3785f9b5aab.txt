@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Halb] Halberdier Helmetless [U] by Rexacuse
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Halb%5D%20Halberdier%20Helmetless%20%5BU%5D%20by%20Rexacuse
+
+F2U/F2E
+
+Base animation by TheBlindArcher. Further improvements added by Spud, MeatofJustice.
+
+Lance by TheBlindArcher.
+
+Unarmed by TheBlindArcher.
+
+Helmentless version by Rexacuse.
+
+3. Axe (Stab)  by tatata
+
+3. Axe (Swing) by tatata
+
+4. Handaxe by tatata

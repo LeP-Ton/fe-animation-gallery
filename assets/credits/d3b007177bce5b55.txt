@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Mage-Reskin] Lilina [F] by Mikey Seregon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BMage-Reskin%5D%20Lilina%20%5BF%5D%20by%20Mikey%20Seregon
+
+F2U/F2E
+
+Vanilla base animation by IS.
+
+Variant by Mikey Seregon.

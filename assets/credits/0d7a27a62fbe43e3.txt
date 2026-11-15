@@ -1,0 +1,19 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Paladin-Variant] [F] SALVAGED Vanilla
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BPaladin-Variant%5D%20%5BF%5D%20SALVAGED%20Vanilla
+
+F2U/F2E
+
+Original Paladin: Team SALVAGED
+
+Female Variant: Team SALVAGED, Leo_link, Flasuban, The_Big_Dededester
+
+Bow Animation: Obsidian Daddy
+
+Magic and Staff: CelestiaHeart
+
+Unarmed (No shield) by tatata.
+
+Note: This animation uses the SALVAGED based design but uses vanilla motions.
+
+
+

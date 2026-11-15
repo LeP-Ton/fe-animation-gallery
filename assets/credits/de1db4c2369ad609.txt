@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Eliwood-Variant] T1 Prince Zephiel [M] by Teraspark
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Eliwood-Variant%5D%20T1%20Prince%20Zephiel%20%5BM%5D%20by%20Teraspark
+
+F2U/F2E
+
+Made by Link, Teraspark.
+
+This folder needs an unarmed animation.
+
+This animation has some awkward body/anatomy inconsistencies, particularly with its arms. It could use community touch-ups.

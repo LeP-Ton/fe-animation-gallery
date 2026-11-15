@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Lance] Halb-Lancer v1 [M] by TBA
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Lance%5D%20Halb-Lancer%20v1%20%5BM%5D%20by%20TBA
+
+F2U/F2E
+
+Made by TheBlindArcher.
+
+This animation is one of the oldest in the repository. I recommend looking into Jj09's revamped Halb-Lancer instead.

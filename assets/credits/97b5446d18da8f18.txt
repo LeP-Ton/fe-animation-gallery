@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE6 Roy-Variant] Mystic Knight [F] by Linkain
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE6%20Roy-Variant%5D%20Mystic%20Knight%20%5BF%5D%20by%20Linkain
+
+F2U/F2E
+
+Original sprite sheet by Linkain.
+
+Animation formatted for GBA by Eijin and Reyk_Retro0337.

@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Reskin] Bald +Staves [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Reskin%5D%20Bald%20%2BStaves%20%5BM%5D
+
+F2U/F2E
+
+Sword by Devisio, L95
+
+Staff by L95
+
+Unarmed by L95
+
+Map Sprites by Pikmin1211, L95
+
+Class Card by Pikmin1211

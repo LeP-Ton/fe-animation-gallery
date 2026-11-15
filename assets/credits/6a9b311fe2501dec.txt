@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[Knight-Custom] The Stalwart [U] by Zomaxie
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BKnight-Custom%5D%20The%20Stalwart%20%5BU%5D%20by%20Zomaxie
+
+F2U/F2E
+
+Original sprite sheet by Zomaxie.
+
+Heavy updates, additions, and revisions, plus scripting by ZoramineFae.
+
+Shield fixes/blur frames by JJ09.

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Fir Repal [F] by RedBean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Fir%20Repal%20%5BF%5D%20by%20RedBean
+
+F2U/F2E
+
+Animation by RedBean. 
+
+Scripting by Jj09.
+
+Lance animation by VelvetKitsune, Spud.
+
+Repal by Seliost1.

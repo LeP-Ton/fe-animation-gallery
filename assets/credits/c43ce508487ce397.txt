@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Mercenary-Reskin] Bandana [F] by Zionzap
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BMercenary-Reskin%5D%20Bandana%20%5BF%5D%20by%20Zionzap
+
+F2U/F2E
+
+Animation by Zionzap.
+
+Scripting and Formatting by Reyk_Retro0337.

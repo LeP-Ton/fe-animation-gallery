@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Karla [F] by Redbean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Karla%20%5BF%5D%20by%20Redbean
+
+F2U/F2E
+
+Author RedBean
+
+AnimationScript 7743
+
+Unarmed animation by Seliost1.
+
+Sword (Alt) by Seliost1.
+
+https://tieba.baidu.com/p/7146291531?pn=5

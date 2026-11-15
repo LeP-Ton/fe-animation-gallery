@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Berserker-Reskin] Piratezerker [F] by Alice
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBerserker-Reskin%5D%20Piratezerker%20%5BF%5D%20by%20Alice
+
+F2U/F2E
+
+Original by eCut.
+
+Scripted by Skitty.
+
+Repalette made by Natsumi, AKA Serif.
+
+Magic Axe by Alice. Inspired by DerTheVaporeon's Berserker animation.
+
+Pirate style clothes by Alice.

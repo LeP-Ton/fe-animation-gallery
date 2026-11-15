@@ -1,0 +1,20 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE8 Eirika-Base] T1 Vanilla +Weapons [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE8%20Eirika-Base%5D%20T1%20Vanilla%20%2BWeapons%20%5BF%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Sword (Backflip) by SamirPlayz.
+
+Lance sprites by PrincessKilvas, formatted by Reyk_Retro0337.
+
+Magic and Staff by Lisandra_Brave.
+
+Beta Backflip by Plant_Academy and special thanks to:
+
+Obsidian_Daddy, Feier, Struedelmuffin.
+
+Sword (Beta - RedBean) and Unarmed (Beta - RedBean) edits by (of course) RedBean.
+
+Sword (Alt Crit) by Seliost1.

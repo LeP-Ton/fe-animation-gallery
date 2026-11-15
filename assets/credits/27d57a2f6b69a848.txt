@@ -1,0 +1,9 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[WR Reskin] [U] Vidame by DatonDemand
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BWR%20Reskin%5D%20%5BU%5D%20Vidame%20by%20DatonDemand
+
+Magic & Staff by DatonDemand.
+
+Base Wyvern by Leo_Link.
+
+Scripting by Vyland.
+

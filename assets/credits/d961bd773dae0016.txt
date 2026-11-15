@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Bard-Base] [M] Nils +Weapons
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BBard-Base%5D%20%5BM%5D%20Nils%20%2BWeapons
+
+Vanilla animation by IS.
+
+Staff (+Magic) by FaerieFruit, Mikey Seregon
+
+Staff by Mikey Seregon
+
+Dragonstone by Marlon0024.
+
+Ice and Fire Transform/Revert animations inspired by Marlon0024.
+
+Ice and Fire Transform/Revert animations made by Sirknite31.
+
+Magic by Saint Rubenio.

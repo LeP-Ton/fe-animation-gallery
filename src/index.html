@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
+  <title>火纹动画图鉴 · GIF预览与资源下载</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="catalog-data.js"></script>
+  <script defer src="catalog-core.js"></script>
+  <script defer src="vendor/jszip.min.js"></script>
+  <script defer src="downloads.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#results">跳到动画目录</a>
+  <aside class="sidebar" aria-label="素材分类">
+    <a class="brand" href="#" id="brand-home"><span class="brand-mark">阵</span><span>火纹动画图鉴<small>GBA 动画 · 预览与下载</small></span></a>
+    <div class="sidebar-label">人形分类与全库浏览</div>
+    <nav id="category-nav" class="category-nav"></nav>
+    <div class="sidebar-separator"></div>
+    <nav class="collection-nav">
+      <button id="favorites-nav" class="nav-button" type="button"><span class="nav-symbol">☆</span><span>我的挑选</span><span class="nav-count" id="favorite-count">0</span></button>
+      <button id="pending-nav" class="nav-button" type="button"><span class="nav-symbol">?</span><span>外形待确认</span><span class="nav-count" id="pending-count">0</span></button>
+    </nav>
+    <div class="sidebar-note"><span class="note-dot"></span><div>盾具按版本核查<p>全库保留持盾与非人形素材。人工核查的无盾版本可单独筛选。</p></div></div>
+    <div class="sidebar-bottom"><span>非官方同人资源图鉴</span><small id="data-date">正在读取索引…</small><a href="README.md" target="_blank" rel="noopener">使用说明与来源 ↗</a></div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar"><span class="breadcrumb">资源工作台 <span>/</span> 动画预览</span><div class="topbar-actions"><button id="downloads-button" class="button button-primary" type="button">下载资源包</button><button id="download-picks" class="button button-plain" type="button">下载所选 GIF</button><button id="export-selection" class="button button-plain" type="button">导出我的挑选 <span>↗</span></button><span class="local-badge"><i></i>GitHub Pages</span></div></header>
+    <section class="page-heading">
+      <div><div class="eyebrow">FIRE EMBLEM GBA · 动画素材图鉴</div><h1 id="page-title">从动作里，挑出合适的人物。</h1><p id="page-description">人形分类与全库浏览原始 GIF，再为选中的动作记录拟对应人物。</p></div>
+      <div class="library-totals"><div><strong id="total-units">—</strong><span>套原始资源</span></div><div><strong id="total-gifs">—</strong><span>个 GIF 预览</span></div></div>
+    </section>
+
+    <section class="filters" aria-label="筛选素材">
+      <div class="search-row"><label class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"></circle><path d="m15.5 15.5 4.3 4.3"></path></svg><input id="search" type="search" placeholder="搜索职业、角色、作者、原始目录或挑选备注…" aria-label="搜索素材" autocomplete="off"><kbd>/</kbd></label><button id="reset-filters" type="button" class="button button-plain">重置筛选</button></div>
+      <div class="filter-row"><label class="select-field"><span>原库分类</span><select id="source-filter" aria-label="筛选原库分类"><option value="all">全部原始分类</option></select></label>
+        <label class="select-field"><span>武器</span><select id="weapon-filter" aria-label="筛选武器"></select></label>
+        <label class="select-field"><span>盾具</span><select id="shield-filter" aria-label="筛选盾具"><option value="all">不限盾具</option><option value="verified_no">已核查无盾</option><option value="seen_shield">已见盾 / 盾形防御体态</option><option value="named_shield">名称提示有盾</option><option value="unknown">尚未核查</option></select></label>
+        <label class="select-field"><span>外形</span><select id="appearance-filter" aria-label="筛选外形"><option value="all">全部外形</option><option>其他素材</option><option>待确认</option><option>人类</option><option>人形异族</option><option>人形怪物</option></select></label>
+        <label class="select-field"><span>性别标记</span><select id="gender-filter" aria-label="筛选源文件性别标记"><option value="all">全部</option><option>男</option><option>女</option><option>未标注</option></select></label>
+        <label class="select-field"><span>排序</span><select id="sort-filter" aria-label="排序"><option value="name">原始名称</option><option value="reviewed">已核查无盾优先</option><option value="variants">GIF 版本最多</option></select></label>
+      </div>
+      <div class="filter-options"><label><input id="include-related" type="checkbox"> 显示附带变身与待确认版本</label><div><button id="play-toggle" type="button" class="play-toggle" aria-pressed="true">Ⅱ 暂停动画</button><label class="page-size">每页 <select id="page-size" aria-label="每页数量"><option>12</option><option selected>24</option><option>48</option></select> 套</label></div></div>
+    </section>
+
+    <div class="results-heading"><div><span id="result-count" aria-live="polite">正在整理动画…</span><span class="result-hint" id="result-hint">一张卡片对应一套原始资源，可切换其 GIF 版本</span></div><button id="method-button" class="text-button" type="button">筛选说明与其他素材 ↗</button></div>
+    <div class="catalog-grid" id="results" tabindex="-1" aria-label="动画素材卡片"></div>
+    <section class="empty-state" id="empty-state" hidden><div>⌕</div><h2>没有符合条件的动画</h2><p>可以减少搜索词，或放宽武器、盾具和外形条件。</p><button id="empty-reset" type="button" class="button button-primary">重置筛选</button></section>
+    <footer class="pagination"><span id="page-summary"></span><div><button id="previous-page" class="button" type="button">← 上一页</button><span id="page-label">1 / 1</span><button id="next-page" class="button" type="button">下一页 →</button></div></footer>
+    <footer class="page-footer"><span>原始素材来自 FE-Repo，作者与使用要求见各资源说明。本图鉴非 Nintendo / Intelligent Systems 官方网站。</span><span id="storage-status">挑选记录保存在当前浏览器</span></footer>
+  </main>
+
+  <dialog id="detail-dialog" class="detail-dialog" aria-labelledby="detail-title"><button class="dialog-close" id="close-detail" type="button" aria-label="关闭详情">×</button><div class="detail-stage"><img id="detail-image" alt=""><div class="detail-image-note">原始 GIF · 点击外侧或按 Esc 关闭</div></div><div class="detail-content"><div class="eyebrow" id="detail-category"></div><h2 id="detail-title"></h2><p id="detail-subtitle"></p><label class="detail-select">切换 GIF 版本<select id="detail-variant" aria-label="详情 GIF 版本"></select></label><div class="detail-badges" id="detail-badges"></div><p id="detail-mapping" class="detail-mapping"></p><div class="pick-panel"><label for="role-note">拟对应人物 / 挑选备注</label><input id="role-note" placeholder="例如：枪兵主将、普通弓兵、保留这套必杀…" maxlength="500"><div><button id="detail-favorite" class="button button-primary" type="button">☆ 加入我的挑选</button><span id="note-status" role="status"></span></div></div><div class="detail-downloads"><button id="download-gif" class="button" type="button">下载当前 GIF</button><button id="download-unit-previews" class="button" type="button">下载本套 GIF 预览包</button><a id="download-category" class="button button-primary">下载本分类原始资源</a><small>原始分类包包含 PNG、图集、BIN/DMP、脚本与作者说明；GIF 预览包仅含动画预览。</small></div><div class="source-panel"><span>原始来源链接</span><p id="detail-source"></p><div><button id="copy-source" type="button" class="text-button">复制来源链接</button><a id="original-gif" target="_blank" rel="noopener">打开原始 GIF ↗</a><a id="source-credits" target="_blank" rel="noopener">作者说明 ↗</a></div></div><p id="detail-reason" class="classification-note"></p></div></dialog>
+
+  <dialog id="method-dialog" class="method-dialog" aria-labelledby="method-title"><button id="close-method" class="dialog-close" type="button" aria-label="关闭筛选说明">×</button><div class="eyebrow">分类口径</div><h2 id="method-title">原版、同人改绘与跨作品移植。</h2><div id="method-content"></div><button id="download-manifest" class="button" type="button">下载完整筛选清单 JSON</button></dialog>
+  <dialog id="downloads-dialog" class="method-dialog" aria-labelledby="downloads-title"><button id="close-downloads" class="dialog-close" type="button" aria-label="关闭下载目录">×</button><div class="eyebrow">原始素材下载</div><h2 id="downloads-title">完整工程，按需下载。</h2><p>保留原始目录、PNG逐帧与图集、GIF、脚本、BIN/DMP和作者说明。下面的原始资源包托管于 GitHub Releases。</p><a id="download-complete" class="button button-primary"></a><div class="package-list" id="package-list"></div><button id="download-checksums" class="button" type="button">下载 SHA-256 校验清单</button><p>素材来自 <a href="https://github.com/Klokinator/FE-Repo" target="_blank" rel="noopener">Klokinator/FE-Repo</a>。各作者要求以原目录 CREDITS/README 为准；站点源码许可不覆盖美术素材。</p></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript>请在浏览器中允许 JavaScript，以便搜索、切换 GIF 与保存挑选记录。原始资源仍可在 Battle Animations 目录查看。</noscript>
+</body>
+</html>

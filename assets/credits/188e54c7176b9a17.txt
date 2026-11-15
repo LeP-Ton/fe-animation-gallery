@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Skeleton-Variant] [U] Skeleshaman (Lich) by Dutch Introvert
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BSkeleton-Variant%5D%20%5BU%5D%20Skeleshaman%20%28Lich%29%20by%20Dutch%20Introvert
+
+Shaman base by IS.
+
+Staff/Unarmed animations by An odd Dutch Introvert

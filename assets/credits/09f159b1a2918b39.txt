@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Dark-Type/[T3 Necromancer-Reskin] Warlock [U] by Jey the Count
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Dark-Type/%5BT3%20Necromancer-Reskin%5D%20Warlock%20%5BU%5D%20by%20Jey%20the%20Count
+
+F2U/F2E
+
+Animation by Jey.
+
+Alt Magic animation by UltraFenix.
+
+6. Magic (Palette Fix) changes the crit aura palette. (Minor color changes.)

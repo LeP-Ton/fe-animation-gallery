@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Cavalier-Variant] [M] Leo's Axe Cavalier Repalette by Leo_Link
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BCavalier-Variant%5D%20%5BM%5D%20Leo%27s%20Axe%20Cavalier%20Repalette%20by%20Leo_Link
+
+Animation by Leo_Link.
+
+Scripting by Pushwall.
+
+Repalette by TempestSageJDJ

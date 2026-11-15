@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Cavs, Paladins, Rangers/[Cavalier-Reskin] [F] Greentea's GenderKent
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BCavalier-Reskin%5D%20%5BF%5D%20Greentea%27s%20GenderKent
+
+F2U/F2E
+
+Original Kent animation by Greentea.
+
+Scripted by RobertFPY.
+
+GenderKent edit by Chatroom64.

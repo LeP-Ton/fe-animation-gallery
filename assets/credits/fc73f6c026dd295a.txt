@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Dragoon] Dragoon [U] by Mercenary Lord
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BDragoon%5D%20Dragoon%20%5BU%5D%20by%20Mercenary%20Lord
+
+F2U/F2E
+
+Original Dragoon by Mercenary Lord.
+
+Scripting by NYZGamer.
+
+This version is extremely difficult to repalette and make look good. I recommend using the Repal version.

@@ -1,0 +1,4 @@
+原始目录：Battle Animations/Mounted - Dismounted, Monsters, Misc/[Wyvern] [U] Universal Transformation Base
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted%2C%20Monsters%2C%20Misc/%5BWyvern%5D%20%5BU%5D%20Universal%20Transformation%20Base
+
+Animation by Seliost1.

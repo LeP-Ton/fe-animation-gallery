@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[General-Reskin] Female General Repalette [F] by 7743
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BGeneral-Reskin%5D%20Female%20General%20Repalette%20%5BF%5D%20by%207743
+
+F2U/F2E
+
+Female/Long haired General By RiriK/Rikki
+
+Original General Sword Chain animation by Knabepicer
+
+Credit to Redbean for certain parts
+
+Credit to  Marlon&Louis Fire Hacks' patches that included the original map sprites for [Marshal], who I believe is by Nuramon, so also credits to him as well (Marshal (M) Zelgius Helmless Sword Map Sprite)
+
+Credit to GabrielKnight for the original Bow (Cannon) General
+
+Rewrite helmetless by 7743.

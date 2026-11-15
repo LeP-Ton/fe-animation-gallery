@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Mounted - Dismounted, Monsters, Misc/[Brigand-Reskin] [F] Brigand Drake Rider by Dutch Introvert
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted%2C%20Monsters%2C%20Misc/%5BBrigand-Reskin%5D%20%5BF%5D%20Brigand%20Drake%20Rider%20by%20Dutch%20Introvert
+
+Lizard body base by eCut.
+
+Edits and additional frames by An odd Dutch Introvert.

@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Lyn-Base] T1 Repal [F] by Fiuke_Bnuy
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Base%5D%20T1%20Repal%20%5BF%5D%20by%20Fiuke_Bnuy
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Repal by Fiuke_Bnuy.
+
+(The only difference between the "normal" and the "Alt", is that the "ALT" has the vanilla Sheets, but it does not have some little corrections that I made Frame by Frame)

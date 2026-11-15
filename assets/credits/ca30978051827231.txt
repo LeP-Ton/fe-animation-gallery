@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Brigand-Reskin] Lizard Brigand [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBrigand-Reskin%5D%20Lizard%20Brigand%20%5BF%5D
+
+F2U/F2E
+
+Head and Edits by An odd Dutch Introvert.
+
+Body animation/base by eCut.
+
+Scripted by Skitty.

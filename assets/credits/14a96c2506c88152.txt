@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Magi - Nature-Type/[Pupil-Base] Vanilla FE8 +Staff [M] by Citrus
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Magi%20-%20Nature-Type/%5BPupil-Base%5D%20Vanilla%20FE8%20%2BStaff%20%5BM%5D%20by%20Citrus
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Magic fixed by Blazer.
+
+Staff by Citrus.

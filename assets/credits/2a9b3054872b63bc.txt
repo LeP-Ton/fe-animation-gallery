@@ -1,0 +1,16 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Brigand-Base] Vanilla +Magic Anims [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BBrigand-Base%5D%20Vanilla%20%2BMagic%20Anims%20%5BM%5D
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Magic animations by Blue Druid.
+
+Sword by ZoramineFae.
+
+Removed a white pixel in face by Vilk.
+
+Magic Axe script by Chi-Chi.
+
+Axe (+Handaxe) by Yerek.

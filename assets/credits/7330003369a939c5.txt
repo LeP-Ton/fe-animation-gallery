@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Boss-Base] [U] Vanilla Demon King +FE6-7
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20Demon%20King%20%2BFE6-7
+
+IS, Marlon0024, SHYUTERz
+
+6. Magic {SHYUTERz}
+
+8. Monster (FE7) (Demon Light) {Marlon0024}
+
+8. Monster (FE7) (Ravager) {Marlon0024}
+
+8. Monster {SHYUTERz}
+
+Palettes by Zarg.

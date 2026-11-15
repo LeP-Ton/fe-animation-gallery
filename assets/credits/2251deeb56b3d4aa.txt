@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Dancer-Base] [F] Vanilla FE6 Larum +FE7-8, Staff
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BDancer-Base%5D%20%5BF%5D%20Vanilla%20FE6%20Larum%20%2BFE7-8%2C%20Staff
+
+Vanilla animation made by IS.
+
+Staff by Vilkalizer.
+
+Refresh (Fixed SFX) by Eldritch Abomination.
+
+Refresh (Heart FE8 Compatible) by SHYUTERz.
+
+Sword by Yerek.

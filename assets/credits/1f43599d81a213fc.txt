@@ -1,0 +1,9 @@
+原始目录：Battle Animations/Mounted - Dismounted, Monsters, Misc/[Bird-Rider] [F] Sky and Wrench by Stephano
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Dismounted%2C%20Monsters%2C%20Misc/%5BBird-Rider%5D%20%5BF%5D%20Sky%20and%20Wrench%20by%20Stephano
+
+Sky & Wrench by Stephano.
+
+Characters Sky & Wrench Created by WayForward.
+
+Hectore Lance animation from [FE7 Hector-Reskin] [F] T2 Skirt by TATUTA_CHANG.
+

@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[Knight-Base] Vanilla Repal [U] by FPZero
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BKnight-Base%5D%20Vanilla%20Repal%20%5BU%5D%20by%20FPZero
+
+F2U/F2E
+
+Repalette of the Vanilla Knight by FPZero.
+
+Note that this repalette is missing all of the weapons from the vanilla animation's folder. It would be excellent to get those repaletted too, since the vanilla knight's palette is quite bad.

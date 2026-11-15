@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Custom Polearm] Sergeant [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BCustom%20Polearm%5D%20Sergeant%20%5BF%5D
+
+F2U/F2E
+
+Spud, Leolink, Iscaneous, Nuramon.
+
+Female Version by ドラドラゴ (Dora Drago).
+
+Axe and Handaxe animation by Itranc.
+
+Removed white pixels from face by Itranc.

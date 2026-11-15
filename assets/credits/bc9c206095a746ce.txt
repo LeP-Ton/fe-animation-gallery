@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Stefan + Pants [M] Repal by Greentea
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Stefan%20%2B%20Pants%20%5BM%5D%20Repal%20by%20Greentea
+
+F2U/F2E
+
+Made by Greentea. 
+
+Scripted by RobertFPY, ltranc.
+
+Repal by Seliost1.
+
+Sword (Alt Crit + Ranged Crit) by NamelessX.

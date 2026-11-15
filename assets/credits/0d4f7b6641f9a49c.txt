@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Zombie-Custom] [U] Gore by Alexsplode
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BZombie-Custom%5D%20%5BU%5D%20Gore%20by%20Alexsplode
+
+Gore animation by Alexsplode.
+
+Scripting by Alexsplode.
+
+Map sprites and mug made by Alexsplode.

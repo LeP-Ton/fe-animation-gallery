@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Manakete-Custom] [F] Adult Tiki by akkuma407
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BManakete-Custom%5D%20%5BF%5D%20Adult%20Tiki%20by%20akkuma407
+
+Animation by akkuma407.
+
+Scripting and magic anim by UltraxBlade.
+
+The magic anim also works as the unarmed/base state to transform from.

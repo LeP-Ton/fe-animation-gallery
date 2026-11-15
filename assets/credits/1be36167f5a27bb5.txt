@@ -1,0 +1,6 @@
+原始目录：Battle Animations/Bards, Dancers, Suppliers, Misc/[Bard-Base] [M] Elffin Fancy +Magic
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Bards%2C%20Dancers%2C%20Suppliers%2C%20Misc/%5BBard-Base%5D%20%5BM%5D%20Elffin%20Fancy%20%2BMagic
+
+Animation by MeatOfJustice.
+
+Unique map sprites and Class Card also by MeatOfJustice.

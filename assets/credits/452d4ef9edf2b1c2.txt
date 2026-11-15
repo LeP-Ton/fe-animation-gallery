@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Lnc) Soldiers, Halberdiers/[Recruit-Reskin] Unicorn Overlord Soldier [F] by squidaccus
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Lnc%29%20Soldiers%2C%20Halberdiers/%5BRecruit-Reskin%5D%20Unicorn%20Overlord%20Soldier%20%5BF%5D%20by%20squidaccus
+
+F2U/F2E
+
+Vanilla animation by IS.
+
+Reskin by squidaccus.

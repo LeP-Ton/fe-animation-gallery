@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Monsters - Basic Types/[Cyclops-Base] [U] Vanilla +Bow
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Basic%20Types/%5BCyclops-Base%5D%20%5BU%5D%20Vanilla%20%2BBow
+
+Vanilla animation by IS.
+
+Bow by Pie1055, scripted by Orihara_Saki.
+
+Boulder animation by TytheBub.

@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Boss-Base] [U] Vanilla FE7 Fire Dragon +FE8
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20FE7%20Fire%20Dragon%20%2BFE8
+
+IS, Marlon0024, SHYUTERz
+
+8. Dragonstone (FEx + Transform Flash Crit) {SHYUTERz}
+
+8. Dragonstone (FEx + Transform Stepin) {SHYUTERz}
+
+8. Dragonstone (FEx + Transform) {SHYUTERz}
+
+8. Dragonstone {Marlon0024}

@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Infantry - (Axe) Fighters and Warriors/[Fighter-Custom] Gladiator Fergus [M] by ZoramineFae
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Fighters%20and%20Warriors/%5BFighter-Custom%5D%20Gladiator%20Fergus%20%5BM%5D%20by%20ZoramineFae
+
+F2U/F2E
+
+Animation by ZoramineFae.
+
+Shield comes from Nuramon's Hero (Specifically, his Armored variant)
+
+Dirt particles come from Nuramon's Ephraim Heavy Infantry Great Lord, as does the entire motion of the basic (non-crit) Swing.
+
+Animation also partially takes from Redbean's Echidna Hero's axe.
+
+Shoutout to Eden for thinking kicking a shield was hilarious (she was very, very correct)

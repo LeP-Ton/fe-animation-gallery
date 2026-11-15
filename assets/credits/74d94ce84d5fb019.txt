@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Infantry - Knights, Generals, Armors/[Knight-Variant] Wendy [F] by RedBean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20Knights%2C%20Generals%2C%20Armors/%5BKnight-Variant%5D%20Wendy%20%5BF%5D%20by%20RedBean
+
+F2U/F2E
+
+Animation by RedBen.
+
+1. Sword  by tatata
+
+3. Axe by tatata
+
+4. Handaxe by tatata
+
+6. Magic by tatata
+
+7. Staff by tatata
+
+Script by 7743.

@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Swordmaster-Variant] Trueblade [M] by Mycahel
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BSwordmaster-Variant%5D%20Trueblade%20%5BM%5D%20by%20Mycahel
+
+F2U/F2E
+
+Made by Mycahel, Greentea, RobertFPY.
+
+This animation could use some community fixes. It also needs an Unarmed animation.

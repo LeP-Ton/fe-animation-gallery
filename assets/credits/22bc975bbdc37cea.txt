@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Mounted - Pegs, Wyverns, Griffons/[WL Reskin] [M] Heath Repalette
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Pegs%2C%20Wyverns%2C%20Griffons/%5BWL%20Reskin%5D%20%5BM%5D%20Heath%20Repalette
+
+Animation by Greentea.
+
+Scripting by RobertFPY.
+
+Repal by UltraFenix.
+
+Repal fixes by CranJam.

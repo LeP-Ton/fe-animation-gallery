@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Swd) Myrms and Swordmasters/[Myrmidon-Custom] Mia [F] by Redbean
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Myrms%20and%20Swordmasters/%5BMyrmidon-Custom%5D%20Mia%20%5BF%5D%20by%20Redbean
+
+F2U/F2E
+
+Animation by RedBean.
+
+Script by Knabepicer.
+
+Script Fix by UltraxBlade
+
+Sword (Alt Ranged Attack) by Seliost1.

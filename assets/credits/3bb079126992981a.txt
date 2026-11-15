@@ -1,0 +1,8 @@
+原始目录：Battle Animations/Infantry - (Bow) Archers and Hunters/[Archer-Custom] Fletchling [M] by RenOokami
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Bow%29%20Archers%20and%20Hunters/%5BArcher-Custom%5D%20Fletchling%20%5BM%5D%20by%20RenOokami
+
+F2U/F2E
+
+Original spritesheet by RenOokami.
+
+Bow/unarmed by Knabepicer

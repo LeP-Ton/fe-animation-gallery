@@ -1,0 +1,12 @@
+原始目录：Battle Animations/Infantry - (Axe) Brigs, Pirates, Zerkers/[Hector-Reskin] T1 Waleed's Gladiator Repal v2 +Sword [M]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Axe%29%20Brigs%2C%20Pirates%2C%20Zerkers/%5BHector-Reskin%5D%20T1%20Waleed%27s%20Gladiator%20Repal%20v2%20%2BSword%20%5BM%5D
+
+F2U/F2E
+
+Base for Gladiator by Waleed.
+
+Repalette by Pushwall.
+
+Axe anim error fixes by Lord_Tweed.
+
+Sword anim by Lord_Tweed, Zane Avernathy.

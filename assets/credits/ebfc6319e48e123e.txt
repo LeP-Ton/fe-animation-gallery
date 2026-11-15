@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Infantry - (Swd) Mercenaries and Heroes/[Hero-Variant] Armored [M] by Nuramon
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20%28Swd%29%20Mercenaries%20and%20Heroes/%5BHero-Variant%5D%20Armored%20%5BM%5D%20by%20Nuramon
+
+F2U/F2E
+
+Animation by Nuramon.
+
+Spinning Handaxe by Sax-Marine.
+
+3. Axe (Magic - Alt) by Itranc. (It may break the OAM Limit!)

@@ -1,0 +1,18 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE7 Lyn-Reskin] T2 FE7if Karla [F]
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE7%20Lyn-Reskin%5D%20T2%20FE7if%20Karla%20%5BF%5D
+
+F2U/F2E
+
+Made by the developers of FE7if.
+
+More accurate bow version by Seliost1.
+
+Sword (Alt) by Seliost1. (Note: The palette does not align with the other animations here.)
+
+Unarmed by Seliost1.
+
+Magic Bow by Seliost1.
+
+Bow (Hope's Arc) by Seliost1. 
+
+Bow (Big Arrow) by Seliost1.

@@ -1,0 +1,14 @@
+原始目录：Battle Animations/Lords - Vanilla and Custom/[FE9 Lord Custom] Greil Hero [M] by Cipher Lee
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Lords%20-%20Vanilla%20and%20Custom/%5BFE9%20Lord%20Custom%5D%20Greil%20Hero%20%5BM%5D%20by%20Cipher%20Lee
+
+F2U/F2E
+
+Cipher Lee, DerTheVaporeon, Nuramon
+
+1. Sword (Alondite) (C47, FE7, and FE8) {Nuramon}
+
+3. Axe (C47, FE7, and FE8) {Nuramon}
+
+3. Axe (Urvan) (C48, FE7, and FE8)
+
+Urvan Swing Frame Fix added by Sax Marine. This version of the Urvan makes the axe look like it's 'chopping' through enemies, rather than 'slapping' them with the broadside of the axe.

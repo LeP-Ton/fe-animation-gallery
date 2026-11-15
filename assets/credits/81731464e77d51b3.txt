@@ -1,0 +1,10 @@
+原始目录：Battle Animations/Monsters - Dragons and Special/[Boss-Base] [U] Vanilla FE6 Idunn +FE7-8
+来源：https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Monsters%20-%20Dragons%20and%20Special/%5BBoss-Base%5D%20%5BU%5D%20Vanilla%20FE6%20Idunn%20%2BFE7-8
+
+IS, Marlon0024, SHYUTERz
+
+6. Magic (FEx, Druid Idunn) {SHYUTERz}
+7. Staff (FEx, Druid Idunn) {SHYUTERz}
+8. Dragonstone (FEx + Transform) {SHYUTERz}
+8. Dragonstone (FEx) {Marlon0024}
+8. Dragonstone (FEx, Claw Attack + Transform) {SHYUTERz}
